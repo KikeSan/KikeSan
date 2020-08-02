@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola dev 👋
+Soy un fullstack developer en constante aprendizaje.
+
+👨🏻‍💻 Aprendiendo RxJS, GraphQL y Java
+🏅 Participo como redactor de contenidos en Zurvin, un site con artículos variados sobre desarrollo FrontEnd (https://medium.com/zurvin)
+🌍 www.kike.pe
 
 <!--
 **KikeSan/KikeSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
