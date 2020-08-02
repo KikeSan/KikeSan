@@ -1,7 +1,7 @@
-### Hola dev 👋
-Mi nombre es Enrique J. Sánchez Quintanilla 
+### Hola 👋
+Mi nombre es Enrique J. Sánchez Quintanilla <br>
 Soy un fullstack developer en constante aprendizaje. 
-<br>
+<br><br>
 👨🏻‍💻 Aprendiendo RxJS, GraphQL y Java <br>
 🏅 Participo como redactor de contenidos en Zurvin, un site con artículos variados sobre desarrollo FrontEnd (https://medium.com/zurvin)<br>
 🌍 www.kike.pe
