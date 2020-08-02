@@ -11,29 +11,16 @@ Soy un Senior Frontend Developer en constante aprendizaje.
 
 ### Skills
 
-• <b>FRONTEND</b><br/>
-&nbsp;&nbsp;∟ Angular<br/>
-&nbsp;&nbsp;∟ Javascript<br/>
-&nbsp;&nbsp;∟ Typescript<br/>
-&nbsp;&nbsp;∟ Bootstrap<br/>
-&nbsp;&nbsp;∟ Rxjs<br/>
-&nbsp;&nbsp;∟ ReactJS<br/>
-&nbsp;&nbsp;∟ HTML5<br/>
-&nbsp;&nbsp;∟ SCSS<br/>
+| Frontend   | Backend    | Mobile  |
+|------------|------------|---------|
+| Angular    | NodeJS     | Flutter |
+| Javascript | MongoDB    | Dart    |
+| Typescript | Express    |         |
+| Rxjs       | Typescript |         |
+| React      | GraphQL    |         |
+| HTML5      | Firebase   |         |
+| SCSS       |            |         |
 
-• <b>BACKEND</b><br/>
-&nbsp;&nbsp;∟ NodeJS<br/>
-&nbsp;&nbsp;∟ MongoDB<br/>
-&nbsp;&nbsp;∟ Express<br/>
-&nbsp;&nbsp;∟ Typescript<br/>
-&nbsp;&nbsp;∟ Heroku<br/>
-&nbsp;&nbsp;∟ Graphql<br/>
-&nbsp;&nbsp;∟ Firebase<br/>
-&nbsp;&nbsp;∟ MS SQL Server<br/>
-
-• <b>MOBILE</b><br/>
-&nbsp;&nbsp;∟ Flutter<br/>
-&nbsp;&nbsp;∟ Dart<br/>
 <br/>
 <sub>© 2020</sub>
 <!--
