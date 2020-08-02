@@ -6,7 +6,7 @@ Mi nombre es Enrique J. Sánchez Quintanilla <br>
 Soy un Senior Frontend Developer en constante aprendizaje. 
 <br><br>
 👨🏻‍💻 Entrenando con: RxJS, GraphQL y Java <br>
-🏅 Participo como redactor de contenidos en Zurvin, un site con artículos variados sobre desarrollo FrontEnd (https://medium.com/zurvin)<br>
+🏅 Participo como Writer en Zurvin, un site con artículos variados sobre desarrollo FrontEnd (https://medium.com/zurvin)<br>
 🌍 www.kike.pe
 
 ### Skills
