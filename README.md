@@ -1,5 +1,5 @@
-[![Awesome Badges](https://img.shields.io/badge/SITE-kike.pe-0c1239.svg)](https://kike.pe)
-[![Awesome Badges](https://img.shields.io/badge/v-1.0.0-ff214f.svg)](https://github.com/KikeSan)
+[![Awesome Badges](https://img.shields.io/badge/web-kike.pe-0c1239.svg)](https://kike.pe)
+[![Awesome Badges](https://img.shields.io/badge/vrs-1.0.0-ff214f.svg)](https://github.com/KikeSan)
 
 ### Hola 👋
 Mi nombre es Enrique J. Sánchez Quintanilla <br>
@@ -17,7 +17,6 @@ Soy un Senior Frontend Developer en constante aprendizaje.
 &nbsp;&nbsp;∟ Typescript<br/>
 &nbsp;&nbsp;∟ Bootstrap<br/>
 &nbsp;&nbsp;∟ Rxjs<br/>
-&nbsp;&nbsp;∟ Fontawesome<br/>
 &nbsp;&nbsp;∟ ReactJS<br/>
 &nbsp;&nbsp;∟ HTML5<br/>
 &nbsp;&nbsp;∟ SCSS<br/>
