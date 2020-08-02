@@ -1,8 +1,9 @@
 ### Hola dev 👋
-Soy un fullstack developer en constante aprendizaje.
-
-👨🏻‍💻 Aprendiendo RxJS, GraphQL y Java
-🏅 Participo como redactor de contenidos en Zurvin, un site con artículos variados sobre desarrollo FrontEnd (https://medium.com/zurvin)
+Mi nombre es Enrique J. Sánchez Quintanilla 
+Soy un fullstack developer en constante aprendizaje. 
+<br>
+👨🏻‍💻 Aprendiendo RxJS, GraphQL y Java <br>
+🏅 Participo como redactor de contenidos en Zurvin, un site con artículos variados sobre desarrollo FrontEnd (https://medium.com/zurvin)<br>
 🌍 www.kike.pe
 
 <!--
