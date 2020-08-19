@@ -7,7 +7,7 @@ Soy un Senior Frontend Developer en constante aprendizaje.
 <br><br>
 👨🏻‍💻 Entrenando con: RxJS, GraphQL y Java <br>
 🏅 Writer en Zurvin, un site con artículos variados sobre desarrollo FrontEnd (https://medium.com/zurvin)<br>
-   y Blogger en DEV.to (https://dev.to/kikesan)
+   y Blogger en DEV.to (https://dev.to/kikesan)<br>
 🌍 www.kike.pe
 
 ### Skills
