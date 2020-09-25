@@ -10,7 +10,7 @@ Soy un Senior Frontend Developer en constante aprendizaje.
 💻 Blogger en [DEV.to](https://dev.to/kikesan) (Posts en Inglés)<br>
 🌍 www.kike.pe
 
-### Skills
+### :rocket: Skills
 
 | Frontend   | Backend    | Mobile  |
 |------------|------------|---------|
