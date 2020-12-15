@@ -1,8 +1,8 @@
 [![Awesome Badges](https://img.shields.io/badge/web-kike.pe-0c1239.svg)](https://kike.pe)
 [![Awesome Badges](https://img.shields.io/badge/vrs-1.0.0-ff214f.svg)](https://github.com/KikeSan)
 
-### Hola 👋
-Mi nombre es Enrique J. Sánchez Quintanilla <br>
+### const name = 'Enrique J. Sánchez Quintanilla';
+Hola, mi nombre es ${name} <br>
 Soy un Senior Frontend Developer en constante aprendizaje. 
 <br><br>
 👨🏻‍💻 Entrenando con: RxJS, GraphQL y Java <br>
