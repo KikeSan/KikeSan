@@ -6,7 +6,7 @@ Hola, mi nombre es ${name} <br>
 Soy un Senior Frontend Developer en constante aprendizaje. 
 <br><br>
 👨🏻‍💻 Entrenando con: RxJS, GraphQL y Java <br>
-🏅 Writer en [Zurvin](https://medium.com/zurvin), un site con artículos variados sobre desarrollo FrontEnd en Medium.com<br>
+🏅 Writer en [Zurvin](https://medium.com/zurvin), un site con artículos variados sobre desarrollo FrontEnd en [Medium.com](https://medium.com/zurvin)<br>
 💻 Blogger en [DEV.to](https://dev.to/kikesan) (Posts en Inglés)<br>
 🌍 www.kike.pe
 
