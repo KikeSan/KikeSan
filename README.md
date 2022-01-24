@@ -27,7 +27,5 @@ Soy un Fullstack Developer en constante aprendizaje.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kikesan&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikesan&layout=compact)
-
 
 <sub>© 2020</sub>
