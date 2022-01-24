@@ -3,10 +3,10 @@
 
 ### const name = 'Enrique J. Sánchez Quintanilla';
 Hola, mi nombre es ${name} <br>
-Soy un Senior Frontend Developer en constante aprendizaje. 
+Soy un Fullstack Developer en constante aprendizaje. 
 <br><br>
 👨🏻‍💻 Entrenando con: Python, Flutter 2 <br>
-✏️ Writer en [Zurvin](https://medium.com/zurvin), un site con artículos variados sobre desarrollo FrontEnd en [Medium.com](https://medium.com/zurvin)<br>
+✏️ Escritor en [Zurvin](https://medium.com/zurvin), un site con artículos variados sobre desarrollo FrontEnd en [Medium.com](https://medium.com/zurvin)<br>
 📕 Blogger en [DEV.to](https://dev.to/kikesan) (Posts en Inglés)<br>
 📷 [kikecoder](https://www.instagram.com/kikecoder/) en Instagram<br>
 🌍 www.kike.pe
@@ -17,14 +17,15 @@ Soy un Senior Frontend Developer en constante aprendizaje.
 |------------|------------|---------|
 | Angular    | NodeJS     | Flutter |
 | Javascript | MongoDB    | Dart    |
-| Typescript | Express    |         |
-| Rxjs       | Typescript |         |
-| React      | GraphQL    |         |
-| HTML5      | Firebase   |         |
-| SCSS       |            |         |
+| Typescript | Express    | UX/UI   |
+| React      | Typescript |         |
+| HTML5      | GraphQL    |         |
+| SCSS       | Firebase   |         |
+| GIT        | SQL        |         |
 
 <br/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kikesan&show_icons=true&theme=tokyonight&count_private=true)
+
 
 <sub>© 2020</sub>
