@@ -25,8 +25,6 @@ Soy un Fullstack Developer en constante aprendizaje
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kikesan&show_icons=true&theme=shades-of-purple&count_private=true)
-
 [![@kikesan's Holopin board](https://holopin.io/api/user/board?user=kikesan)](https://holopin.io/@kikesan)
 
 
