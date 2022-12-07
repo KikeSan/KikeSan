@@ -19,7 +19,7 @@ Soy un Fullstack Developer en constante aprendizaje
 | Javascript | MongoDB    | Dart    |
 | Typescript | Express    | UX/UI   |
 | React      | Typescript | Figma   |
-| HTML5      | GraphQL    |         |
+| HTML5      | GraphQL    | Kotlin  |
 | SCSS       | Firebase   |         |
 | GIT        | SQL        |         |
 
