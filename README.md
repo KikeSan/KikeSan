@@ -5,7 +5,7 @@
 Hola, mi nombre es ${name} <br>
 Soy un Fullstack Developer en constante aprendizaje 
 <br><br>
-👨🏻‍💻 Entrenando con: GCP, Salesforce <br>
+👨🏻‍💻 Entrenando con: GCP, Salesforce, Nest <br>
 ✏️ Escritor en [Zurvin](https://medium.com/zurvin), un site con artículos variados sobre desarrollo FrontEnd en [Medium.com](https://medium.com/zurvin)<br>
 📕 Blogger en [DEV.to](https://dev.to/kikesan) (Posts en Inglés)<br>
 📷 [kikecoder](https://www.instagram.com/kikecoder/) en Instagram<br>
