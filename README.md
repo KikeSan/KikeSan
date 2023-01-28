@@ -3,7 +3,7 @@
 
 ### const name = 'Enrique J. Sánchez Quintanilla';
 Hola, mi nombre es ${name} <br>
-Soy un Fullstack Developer en constante aprendizaje 
+Soy Fullstack Developer en constante aprendizaje 
 <br><br>
 👨🏻‍💻 Entrenando con: NestJS <br>
 ✏️ Escritor en [Zurvin](https://medium.com/zurvin), un site con artículos variados sobre desarrollo FrontEnd en [Medium.com](https://medium.com/zurvin)<br>
