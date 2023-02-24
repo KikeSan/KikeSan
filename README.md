@@ -13,15 +13,15 @@ Soy Fullstack Developer en constante aprendizaje
 
 ### :rocket: Skills
 
-| Frontend   | Backend    | Mobile  |
-|------------|------------|---------|
-| Angular    | NodeJS     | Flutter |
-| Javascript | MongoDB    | Dart    |
-| Typescript | Express    | UX/UI   |
-| React      | NestJS     | Figma   |
-| HTML5      | GraphQL    | Kotlin  |
-| SCSS       | Firebase   |         |
-| GIT        | SQL        |         |
+| Frontend   | Backend    | Mobile  | UX/UI             |
+|------------|------------|---------|-------------------|
+| Angular    | NodeJS     | Flutter | Figma             |
+| Javascript | MongoDB    | Dart    | Adobe XD          |
+| Typescript | Express    | UX/UI   | Adobe Photoshop   |
+| React      | NestJS     | Figma   | Adobe Illustrator |
+| HTML5      | GraphQL    | Kotlin  | Notion            |
+| SCSS       | Firebase   |         | Jira              |
+| GIT        | SQL        |         |                   |
 
 <br/>
 
