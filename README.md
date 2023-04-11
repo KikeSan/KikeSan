@@ -1,5 +1,5 @@
 [![Awesome Badges](https://img.shields.io/badge/web-kike.pe-0c1239.svg)](https://kike.pe)
-[![Awesome Badges](https://img.shields.io/badge/vrs-2.0.7-ff214f.svg)](https://github.com/KikeSan)
+[![Awesome Badges](https://img.shields.io/badge/vrs-2.0.8-ff214f.svg)](https://github.com/KikeSan)
 
 ### const name = 'Enrique J. Sánchez Q.';
 Hola, mi nombre es ${name} <br>
