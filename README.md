@@ -22,6 +22,7 @@ Soy Fullstack Developer en constante aprendizaje
 | HTML5      | GraphQL    | Kotlin  | Notion            |
 | SCSS       | Firebase   |         | Jira              |
 | GIT        | SQL        |         |                   |
+| Wordpress  |            |         |                   |
 
 <br/>
 
