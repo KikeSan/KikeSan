@@ -1,3 +1,5 @@
+[![@kikesan's Holopin board](https://holopin.io/api/user/board?user=kikesan)](https://holopin.io/@kikesan)
+
 [![Awesome Badges](https://img.shields.io/badge/web-kike.pe-0c1239.svg)](https://kike.pe)
 [![Awesome Badges](https://img.shields.io/badge/vrs-2.0.9-ff214f.svg)](https://github.com/KikeSan)
 
@@ -25,7 +27,5 @@ Soy Fullstack Developer en constante aprendizaje
 | Wordpress  |            |         |                   |
 
 <br/>
-
-[![@kikesan's Holopin board](https://holopin.io/api/user/board?user=kikesan)](https://holopin.io/@kikesan)
 
 <sub>© 2023</sub>
